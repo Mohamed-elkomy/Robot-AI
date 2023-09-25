@@ -30,6 +30,6 @@ Author
 [Mohamed Magdy Mohamed Elkomy]
 
 License
-This code is provided under the [MIT License] license. See the LICENSE file for details.
+This code is provided under the [GNU GENERAL PUBLIC LICENSE] license. See the LICENSE file for details.
 
 Feel free to customize this README file with additional information and licensing details as needed.
