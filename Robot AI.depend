@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1546210899 source:c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\workshop\robot ai\main.c
+	<stdio.h>
+	<stdlib.h>
+	"RoboDef.h"
+
+1546210873 c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\workshop\robot ai\robodef.h
+
+1546181092 source:c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\workshop\robot ai\robotinit.c
+	<stdio.h>
+	<stdlib.h>
+	"RoboDef.h"
+
+1546180834 source:c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\workshop\robot ai\robotmovements.c
+	<stdio.h>
+	<stdlib.h>
+	"RoboDef.h"
+
+1546210899 source:c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\workshop\4.robot ai\main.c
+	<stdio.h>
+	<stdlib.h>
+	"RoboDef.h"
+
+1546210873 c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\workshop\4.robot ai\robodef.h
+
+1546181092 source:c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\workshop\4.robot ai\robotinit.c
+	<stdio.h>
+	<stdlib.h>
+	"RoboDef.h"
+
+1546210979 source:c:\users\youse\onedrive\desktop\amit\xyz\amit final material\c programming\workshop\4.robot ai\robotmovements.c
+	<stdio.h>
+	<stdlib.h>
+	"RoboDef.h"
+

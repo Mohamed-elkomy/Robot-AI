@@ -1,0 +1,28 @@
+# Compiled object files
+*.o
+
+# Executable files
+*.out
+
+# Compiled binary files
+*.bin
+
+# Dependency files
+*.d
+
+# Temporary files and directories
+*.log
+*.swp
+*.swo
+.DS_Store
+.vscode/
+
+# Ignore compiled code and build artifacts
+/build/
+
+# Ignore user-specific IDE settings
+/.vscode/
+/.idea/
+
+# Ignore user-specific project files
+RoboDef.h
